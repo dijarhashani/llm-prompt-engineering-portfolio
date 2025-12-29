@@ -1,0 +1,13 @@
+model:
+  provider: openai
+  name: gpt-4.1
+  temperature: 0.2
+  max_tokens: 800
+
+execution:
+  retries: 1
+  timeout_seconds: 30
+
+output:
+  format: json
+  save_outputs: true

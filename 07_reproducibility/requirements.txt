@@ -1,0 +1,13 @@
+# Core Python libraries
+PyYAML>=6.0
+requests>=2.31.0
+
+# For LLM API calls
+openai>=1.0.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Optional evaluation utilities
+jsonschema>=4.21.0

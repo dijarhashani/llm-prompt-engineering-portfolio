@@ -45,4 +45,4 @@ Each top-level folder represents a **core capability required in senior-level LL
 05_domain_case_studies/   → Real-world, domain-specific applications
 06_prompt_security_lab/   → Prompt injection & defense strategies
 07_reproducibility/       → Environment & setup for repeatable results
-08_appendix/              → Glossary, references, and roadmap
+08_appendix/              → Glossary, references
