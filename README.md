@@ -34,8 +34,6 @@ This portfolio is built around the following principles:
 
 ## Repository Structure
 
-Each top-level folder represents a **core capability required in senior-level LLM work**.
-
 ```text
 00_overview/              → Prompt philosophy & evaluation principles
 01_prompt_framework/      → Reusable prompt patterns and design systems
